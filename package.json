@@ -1,0 +1,22 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinjmoses/newsletter.git"
+  },
+  "author": "justin j. moses <justinjmoses@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinjmoses/newsletter/issues"
+  },
+  "homepage": "https://github.com/justinjmoses/newsletter#readme"
+}
